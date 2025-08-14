@@ -487,6 +487,7 @@ a:hover {
   padding: 0.5rem 0;
   position: relative;
   transition: all var(--transition-normal);
+  font-weight: bold; /* or 700 */
 }
 
 .nav__link::after {
